@@ -1,9 +1,12 @@
+# Progress Tacker
 - create-react-app
 - configure TailwindCss
 - Login Page
   - Header
   - background
   - login form
+  - form validation
+  - useRef hook
 
 # Features
 - Login/signUp(when user is not authenticated)
